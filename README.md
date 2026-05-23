@@ -4,8 +4,6 @@
 
 - 🔭 I'm currently working on **my web security scanner**
 
-- 🌱 I'm currently learning **FastAPI**
-
 - 👯 I'm looking to collaborate on **information security projects**
 
 - 📫 How to reach me **raceoverflow@gmail.com**
@@ -14,7 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/raceoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="raceoverflow" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raceoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raceoverflow" height="30" width="40" /></a>
 <a href="https://twitter.com/raceoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raceoverflow" height="30" width="40" /></a>
 <a href="https://medium.com/raceoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="raceoverflow" height="30" width="40" /></a>
